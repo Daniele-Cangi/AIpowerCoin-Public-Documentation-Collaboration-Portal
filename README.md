@@ -47,4 +47,45 @@ This project is released under the MIT License.
 ## Contacts & Collaboration
 
 For questions, suggestions or collaborations:  
-Open an issue on GitHub or contact us by email.
+Open an issue on GitHub or contact us by email.[README_Version2.md](https://github.com/user-attachments/files/22173139/README_Version2.md)
+# AIpowerCoin – Collaboration Opportunity
+
+Welcome to the public collaboration portal for **AIpowerCoin**, a next-generation energy-backed token project.
+
+## About AIpowerCoin
+
+AIpowerCoin is an innovative crypto project aiming to link real energy data and computational resources to a transparent, auditable digital token. The main codebase is currently private, but we are seeking motivated collaborators and technical partners to help bring this vision to life.
+
+## How to Collaborate
+
+- **Request Access:**  
+  If you are interested in contributing, please send a brief technical and motivational introduction.  
+  Outline your relevant skills and proposed contributions.
+
+- **Confidentiality:**  
+  All collaborators must sign a Non-Disclosure Agreement (NDA) before receiving access to private code or sensitive materials.
+
+- **Contribution Policy:**  
+  Contributions will be reviewed and integrated only with approval from the project maintainer.  
+  The code and core ideas remain the property of Daniele Cangi.  
+  No commercial use, distribution, or forking is allowed without explicit written agreement.
+
+- **Recognition & Rewards:**  
+  Contributors may receive public recognition, the possibility of equity/shares in future profits, and visibility in documentation and presentations.
+
+## Contact
+
+To apply or ask questions, please contact:
+
+- Daniele Cangi  
+- [GitHub Profile](https://github.com/Daniele-Cangi)  
+- dacanhs@hotmail.it
+
+---
+
+**Note:**  
+This repository contains only public documentation. The main codebase is private. Collaboration requests are subject to review.
+
+---
+
+Daniele Cangi – AIpowerCoin
