@@ -79,7 +79,7 @@ To apply or ask questions, please contact:
 
 - Daniele Cangi  
 - [GitHub Profile](https://github.com/Daniele-Cangi)  
-- dacanhs@hotmail.it
+- dacangs@hotmail.it
 
 ---
 
