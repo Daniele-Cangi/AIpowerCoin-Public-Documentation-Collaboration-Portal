@@ -40,7 +40,7 @@ AIpowerCoin is a next-generation cryptocurrency that transforms real electric en
 
 ## License
 
-This project is released under the MIT License.
+Business Source License 1.1.
 
 ---
 
