@@ -47,7 +47,7 @@ Business Source License 1.1.
 ## Contacts & Collaboration
 
 For questions, suggestions or collaborations:  
-Open an issue on GitHub or contact us by email.[README_Version2.md](https://github.com/user-attachments/files/22173139/README_Version2.md)
+Open an issue on GitHub or contact us by email.
 # AIpowerCoin – Collaboration Opportunity
 
 Welcome to the public collaboration portal for **AIpowerCoin**, a next-generation energy-backed token project.
